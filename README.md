@@ -2,7 +2,7 @@
 
 ## Installation
 
-Place into "/usr/include/rphii"
+Place headers under `src` into `/usr/include/rphii`
 
 ## Platforms
 
