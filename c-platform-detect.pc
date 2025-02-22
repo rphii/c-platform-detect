@@ -1,0 +1,8 @@
+prefix=/usr
+includedir=${prefix}/include
+
+Name: c-platform-detect
+Description: C platform detect header
+Cflags: -I${includedir}/rphii
+Version: 9999
+
